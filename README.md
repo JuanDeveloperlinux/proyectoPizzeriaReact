@@ -40,8 +40,10 @@ npm run dev
 Esto iniciará la aplicación React en otro puerto (usualmente http://localhost:5173).
 
 👨‍💻 Autor
+
 Juan Carlos Rojas Basado en el curso de Frontend Masters sobre React de Brian Holt
 GitHub: @JuanDeveloperlinux
 
 📝 Licencia
+
 Este proyecto es solo para fines educativos y personales. No está licenciado para uso comercial sin autorización.
